@@ -1,0 +1,8 @@
+{
+  "name": "Court Metrics",
+  "description": "Basketball Progress Engine & Training AI: Track shooting accuracy across court angles, mid-range, layups, matches, drills, and AI coach evaluations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
+
